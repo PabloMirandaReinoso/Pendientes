@@ -1,0 +1,1161 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Planificacion>
+    <Fecha>23-02-2018</Fecha>
+    <Id_x0020_Harvest>SERVICIOSGEN-000056</Id_x0020_Harvest>
+    <Solicitante>Exequiel Contreras</Solicitante>
+    <Horas_x0020_Estimadas />
+    <Horas_x0020_Consumidas>97,0</Horas_x0020_Consumidas>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>27-02-2018</Fecha>
+    <Id_x0020_Harvest>VEFU-001935</Id_x0020_Harvest>
+    <Solicitante>Milton LaPlagne</Solicitante>
+    <Solicitud>Estimados , se requiere crear aplicacion que permita modificar y agregar pactados y planes historicos en forma masiva.</Solicitud>
+    <Horas_x0020_Consumidas>177,0</Horas_x0020_Consumidas>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>27-02-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000308</Id_x0020_Harvest>
+    <Solicitante>Milton LaPlagne</Solicitante>
+    <Solicitud>reajuste planes en pesos </Solicitud>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>17-04-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000336</Id_x0020_Harvest>
+    <Solicitante>Milton LaPlagne</Solicitante>
+    <Solicitud>Cargar exclusiones eliminando FUNES PROC</Solicitud>
+    <Horas_x0020_Consumidas>1,5</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>17-04-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000335</Id_x0020_Harvest>
+    <Solicitante>Milton LaPlagne</Solicitante>
+    <Solicitud>Cargar convenios de Empresas</Solicitud>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>13-04-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000334</Id_x0020_Harvest>
+    <Solicitante>Milton LaPlagne</Solicitante>
+    <Solicitud>Reajuste Planes Pesos Abril 2018</Solicitud>
+    <Horas_x0020_Consumidas>9,5</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>17-04-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000333</Id_x0020_Harvest>
+    <Solicitante>Milton LaPlagne</Solicitante>
+    <Solicitud>Alza Planes 2018/04</Solicitud>
+    <Horas_x0020_Consumidas>19,5</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>02-03-2018</Fecha>
+    <Id_x0020_Harvest>CANVIR-000374</Id_x0020_Harvest>
+    <Solicitante>Exequiel Contreras</Solicitante>
+    <Solicitud>Implementar Campañas para FUN Remoto</Solicitud>
+    <Horas_x0020_Consumidas>186,0</Horas_x0020_Consumidas>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>01-01-2018</Fecha>
+    <Id_x0020_Harvest>INTERNA</Id_x0020_Harvest>
+    <Solicitante>Abraham Parra</Solicitante>
+    <Solicitud>Reuniones de Equipo de Trabajo</Solicitud>
+    <Horas_x0020_Consumidas>89,0</Horas_x0020_Consumidas>
+    <Clasificacion>Coordinación </Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>23-02-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000310</Id_x0020_Harvest>
+    <Solicitante>Exequiel Contreras</Solicitante>
+    <Solicitud>Soporte Fidelizacion</Solicitud>
+    <Horas_x0020_Consumidas>1,5</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>24-04-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000338</Id_x0020_Harvest>
+    <Solicitante>Milton LaPlagne</Solicitante>
+    <Solicitud>Generar PDF Carta Aviso 2</Solicitud>
+    <Horas_x0020_Estimadas>1</Horas_x0020_Estimadas>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>23-04-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000337</Id_x0020_Harvest>
+    <Solicitante>Milton LaPlagne</Solicitante>
+    <Solicitud>Generar Archivos para cargar en ContentM.</Solicitud>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>01-01-2018</Fecha>
+    <Id_x0020_Harvest>AUSENCIAS</Id_x0020_Harvest>
+    <Solicitante>Pablo Miranda</Solicitante>
+    <Solicitud>Atrasos, Permisos, Vacaciones</Solicitud>
+    <Horas_x0020_Consumidas>94,5</Horas_x0020_Consumidas>
+    <Clasificacion>Personales</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>01-01-2018</Fecha>
+    <Id_x0020_Harvest>-</Id_x0020_Harvest>
+    <Solicitante>Sin Id Harvest</Solicitante>
+    <Solicitud>Sin Id Harvest</Solicitud>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>14-05-2018 17:12</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000344</Id_x0020_Harvest>
+    <Solicitante>Milton LaPlagne</Solicitante>
+    <Solicitud>Carga de Archivos</Solicitud>
+    <Horas_x0020_Estimadas>1</Horas_x0020_Estimadas>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>15-05-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-000115</Id_x0020_Harvest>
+    <Solicitante>Milton LaPlagne</Solicitante>
+    <Solicitud>Milton De acuerdo a Reunion sostenida con Pablo el dia Jueves pasado, necesitamos que se consideren los siguientes cambios para proceso adecuacion anualidad Agosto que son los mas necesarios y prioritarios. 1.- Agregar Folio Nomina a la segunda hoja de la Carta (se adjunta imagen. 2.- Se requiere que mensualmente se considere un rango extra de folios de correo (Chilepost) al terminar el mes, puesto que todos los meses estos se estan repitiendo ya que no considerando los folios por cambio de direccion. (considerar un rango de 200 folios más entre un mes y otro)</Solicitud>
+    <Horas_x0020_Estimadas>1</Horas_x0020_Estimadas>
+    <Horas_x0020_Consumidas>2</Horas_x0020_Consumidas>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>15-05-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000342</Id_x0020_Harvest>
+    <Solicitante>Milton LaPlagne</Solicitante>
+    <Solicitud>Actualizar Numero Nomina</Solicitud>
+    <Horas_x0020_Estimadas>1</Horas_x0020_Estimadas>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>16-05-2018</Fecha>
+    <Id_x0020_Harvest>VEFU-001922</Id_x0020_Harvest>
+    <Solicitante>Milton LaPlagne</Solicitante>
+    <Solicitud>Estimados, adjunto requerimiento Herramienta para Reversar FUN por Tratamientos Normativos y/o Judiciales, el cual consiste en Crear una Herramienta Sistémica que permita realizar anulaciones de FUN de forma eficiente y centralizada.</Solicitud>
+    <Horas_x0020_Consumidas>59,0</Horas_x0020_Consumidas>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Abierta</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>17-05-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000345</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Hola Estimados
+
+Favor de acuerdo a archivo adjunto solicitamos suspender todos los convenios vigentes y remplazar por los adjuntos.
+
+Misma Modalidad mes anterior 
+
+Gracias</Solicitud>
+    <Horas_x0020_Estimadas>1</Horas_x0020_Estimadas>
+    <Horas_x0020_Consumidas>2</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>17-05-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-000116</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Milton
+
+De acuerdo a reunión sostenida el día lunes, se requiere implementar automatización en la asignación mensual de folios de correos Chilepost
+
+Situación Actual: Tenemos autonomía en la asignación mensual respecto a Prefijo más asignación de folio correo para los diferentes procesos que enviamos por correos de chile.
+
+Problemática: No contamos con la misma autonomía para la asignación de Prefijo más asignación de folio correo para Chilepost. 
+Lo que se necesita es implementar lo que está actualmente por Correos de Chile transpolar a Chilepost, ya que eventualmente  requeriremos asignar folios no solo a Cartas de adecuación, sino que a fun Adecuación u otro proceso que determinemos enviar por este último medio.
+
+La otra problemática que se nos presenta mensualmente a fines de mes es cuando ejecutamos el proceso por cambio de Dirección ya que para este proceso no se implementó el cambio de folio y requerimos la ayuda de ustedes y con la premura que esto conlleva la idea es no tener que depender para hacer el cambio de folios a un número pequeño de cartas.
+
+Atentamente</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>22-05-2018</Fecha>
+    <Id_x0020_Harvest>URGE-ADEC</Id_x0020_Harvest>
+    <Solicitante>Soledad Escobar</Solicitante>
+    <Solicitud>Urgencias de Adecuaciones</Solicitud>
+    <Horas_x0020_Estimadas>1</Horas_x0020_Estimadas>
+    <Horas_x0020_Consumidas>5,5</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>22-05-2018</Fecha>
+    <Id_x0020_Harvest>VEFU-001946</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Se debe integrar el actual módulo de Retencion de clientes con los servicios de Tipo de Finiquito y Guardar Finiquito del Modelo de Subsidios de Cesantía.</Solicitud>
+    <Horas_x0020_Consumidas>54,5</Horas_x0020_Consumidas>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>22-05-2018 16:27</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000346</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Se deben cargar tres registros a la tabla de carpetas que usa el sistema.</Solicitud>
+    <Horas_x0020_Consumidas>1,5</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>ADEC-INC-000311</Id_x0020_Harvest>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>ADEC-INC-000312</Id_x0020_Harvest>
+    <Horas_x0020_Consumidas>2</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>ADEC-INC-000313</Id_x0020_Harvest>
+    <Horas_x0020_Consumidas>7</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>VEFU-001901</Id_x0020_Harvest>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>ADEC-INC-000315</Id_x0020_Harvest>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>ADEC-INC-000316</Id_x0020_Harvest>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>ADEC-INC-000318</Id_x0020_Harvest>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>ADEC-INC-000321</Id_x0020_Harvest>
+    <Horas_x0020_Consumidas>2</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>ADEC-INC-000325</Id_x0020_Harvest>
+    <Horas_x0020_Consumidas>3,5</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>ADEC-INC-000327</Id_x0020_Harvest>
+    <Horas_x0020_Consumidas>16,5</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>ADEC-INC-000328</Id_x0020_Harvest>
+    <Horas_x0020_Consumidas>2</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>ADEC-INC-000332</Id_x0020_Harvest>
+    <Horas_x0020_Consumidas>5,5</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>SERVICIOSGEN-INC-000357</Id_x0020_Harvest>
+    <Horas_x0020_Consumidas>5,5</Horas_x0020_Consumidas>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>09-05-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000343</Id_x0020_Harvest>
+    <Solicitante>Milton LaPlagne</Solicitante>
+    <Solicitud>Estimados, se solicita cargar exclusiones para FUN 4  Carta Aviso 1 del periodo 05-2018 y generar cartas con su respectiva cuadratura.</Solicitud>
+    <Horas_x0020_Estimadas>1</Horas_x0020_Estimadas>
+    <Horas_x0020_Consumidas>1,5</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>29-05-2018 </Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000347</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Se solicita generar carta Carta 2 de proceso FUN 4 periodo 05-2018 con sus respectivos lotes, nóminas y cuadratura (mismo formato que periodos anteriores). Este proceso no requiere realizar exclusiones, es sólo generación de cartas.</Solicitud>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>05-06-2018</Fecha>
+    <Id_x0020_Harvest>SERVICIOSGEN-000066</Id_x0020_Harvest>
+    <Solicitante>Exequiel Contreras</Solicitante>
+    <Solicitud>Favor generar documentación de liberación para las mejoras realizadas a Fun Remoto y liberar a PRODUCCION usando harvest SERVICIOSGEN-000066.</Solicitud>
+    <Horas_x0020_Estimadas>1</Horas_x0020_Estimadas>
+    <Clasificacion>Liberacion</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>07-06-2018 15:10</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000348</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Estimados, se solicita cargar exclusiones para FUN 4  Carta Aviso 1 del periodo 06-2018 y generar cartas con su respectiva cuadratura, esto para mañana 07/Junio/18.</Solicitud>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>11-06-2018 10:47</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000350</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Buenas tardes, solicito realizar carga de FUN a las siguientes nomina, ya que al momento de cargar en el proceso normal, quedaron sin datos.
+ 
+La nominas a cargar  se encuentran creadas.
+ 
+Atte.</Solicitud>
+    <Horas_x0020_Consumidas>2</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>11-06-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000351</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Estimados, debido a un reclamo en la SIS se evidenció un error en algunos casos del proceso de FUN 4 realizado en oct-2017 a pensionados que se mantenían con marca D (dependiente) siendo P, específicamente se están analizando 88 afiliados. La mayoría de estos casos que erróneamente se mantuvieron como Dependientes, fue un movimiento 48. 
+Se solicita re-generar estos FUN 4 con la marca correcta (Pensionado). Este FUN es sólo para cambiar el tipo de trabajador por lo que no cambia empleador, pactado o ningún otro campo. Se adjunta archivo.</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>12-06-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000352</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Hola Milton
+
+Me puedes ayudar con la siguiente situacion.
+
+
+Me puedes ayudar con la siguiente situación.
+
+Afiliado Realiza Not. 4 en Abril 2018 (Fun 95914386) mismo mes de su anualidad, sin embargo,  Fun de adecuación Abril 2018 (N° 53766829) quedó excluido por este Movimiento tipo 4 que realizo el afiliado, lo cual No es correcto.
+
+Por lo que se requiere revisar esta regla  y donde exista una Not. 4 realizada por el afiliado,  el fun de adecuación  se igual forma se debe actualizar. 
+
+Operaciones se encargará de informar al nuevo empleador el pactado de acuerdo a la adecuación actualizada más fun 4 actualizado.
+
+atte,
+
+Soledad</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>13-06-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000353</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Se deben actualizar tres carpetas de la aplicación de Adecuaciones</Solicitud>
+    <Horas_x0020_Estimadas>1</Horas_x0020_Estimadas>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>12-06-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000354</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Exclusion FUNES4</Solicitud>
+    <Horas_x0020_Estimadas>2</Horas_x0020_Estimadas>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>18-06-2018</Fecha>
+    <Id_x0020_Harvest>CANVIR-INC-000405</Id_x0020_Harvest>
+    <Solicitante>Felipe Jimenez</Solicitante>
+    <Solicitud>Modificaciones FUN REMOTO</Solicitud>
+    <Horas_x0020_Consumidas>31,5</Horas_x0020_Consumidas>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>18-06-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000356</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>hola Estimados</Solicitud>
+    <Horas_x0020_Estimadas>2</Horas_x0020_Estimadas>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>DPS</Id_x0020_Harvest>
+    <Horas_x0020_Consumidas>4,5</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>SERVICIOSGEN-INC-000372</Id_x0020_Harvest>
+    <Horas_x0020_Consumidas>4</Horas_x0020_Consumidas>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>SERVICIOSGEN-000067</Id_x0020_Harvest>
+    <Solicitante>Exequiel Contreras</Solicitante>
+    <Solicitud>o Prioridad  ajustar envió de segunda clave enviando por correo, para resguardar la problemática que generan algunos clientes que no la reciben  de inmediato
+ Con esto ajustar texto respectivo que oriente al cliente revisar ese canal.
+Se debe incorporar al servicio de segunda clave
+  
+1. Disponibilizar servicio que permita gatillar  cambio automático de estado a “Ingresado”, cuando se  debe anula un primer FUN, para generar otro, sin necesidad de crear una nueva solicitud. 
+ Revisar enganche de FUN después de formalizar, revisar propuesta de Abraham al respecto
+  Al eliminar el FUN, se debe gatillar servicio PL de seguimiento que deje no vigente el registro del fun eliminado y permita ingresar el nuevo estado (11) con el folio fun nuevo
+  Se debe revisar con Andrés Navarrete
+  Hay que contemplar la incorporación de éste pl en el proceso de eliminación de fun para los casos de Fun Remoto
+  
+2. Incorporación de cargas RN, con actualización inmediata
+ Condicionar regla de actualización de beneficiarios RN al momento de firmar el FUN para los casos FURE
+ 
+
+Revisar en qué momento se despacha el mail de formalización de contrato a los Casos de Compensados</Solicitud>
+    <Horas_x0020_Estimadas>15</Horas_x0020_Estimadas>
+    <Horas_x0020_Consumidas>87,5</Horas_x0020_Consumidas>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>25-06-2016</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000359</Id_x0020_Harvest>
+    <Solicitante>Margarita Lizama</Solicitante>
+    <Solicitud>Pablo, Al igual que el mes pasado favor modificar PFD de las 2 siguientes cartas de los siguientes folios adjuntos. (adjunto mail del mes pasado, para recordar).Favor enviar para el día 25-06-2018</Solicitud>
+    <Horas_x0020_Estimadas>1</Horas_x0020_Estimadas>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>26-06-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000358</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Generar PDF</Solicitud>
+    <Horas_x0020_Estimadas>1</Horas_x0020_Estimadas>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>04-07-2018</Fecha>
+    <Id_x0020_Harvest>VEFU-001933</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Se requiere crear herramienta para reimpresion de Documentos.</Solicitud>
+    <Horas_x0020_Consumidas>13,0</Horas_x0020_Consumidas>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>06-07-2018</Fecha>
+    <Id_x0020_Harvest>AFILCUEN-INC-000178</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Pablo,
+
+Favor revisar éstos casos de Fun Remoto.
+
+Atte.,</Solicitud>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>09-07-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000361</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Estimados, se solicita cargar exclusiones para FUN 4  Carta Aviso 1 del periodo 07-2018 y generar cartas con su respectiva cuadratura. Esto el día lunes 9/Julio, se enviará archivo por mail.</Solicitud>
+    <Horas_x0020_Estimadas>1</Horas_x0020_Estimadas>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>11-07-2018</Fecha>
+    <Id_x0020_Harvest>SERVICIOSGEN-000069</Id_x0020_Harvest>
+    <Solicitante>Exequiel Contreras</Solicitante>
+    <Solicitud>Estimar incorporar la validación de segunda clave (sms+mail) al proceso de confirmación de oferta para los tipos de campañas de Fidelización (todos)</Solicitud>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>11-07-2018</Fecha>
+    <Id_x0020_Harvest>SERVICIOSGEN-INC-000377</Id_x0020_Harvest>
+    <Solicitante>Exequiel Contreras Luna</Solicitante>
+    <Solicitud>Despachar Campaña en testing para la campaña que ya se creó:
+NÚMERO 58
+Utilizar plantillas de correo de campañas anteriores.
+
+Crear HTML's de Correo electrónico para la campaña, una vez que nos sean enviados
+
+Someter base de afiliados de la campaña a las reglas de exclusión, una vez la base os sea enviada
+
+Otorgar roles de visador a Alex Soto para todos los tipos de campañas de fidelización
+
+Dejar como visadores para las campañas de Venta de Complementos a los usuarios
+MARIELA GOMEZ 
+MARCELA MENDEZ
+PAULIONA SANHUEZA
+ALEX SOTO</Solicitud>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>12-07-2018</Fecha>
+    <Id_x0020_Harvest>SERVICIOSGEN-INC-000378</Id_x0020_Harvest>
+    <Solicitante>Exequiel Contreras Luna</Solicitante>
+    <Solicitud>Hola! de acuerdo a lo conversado en reunión , adjunto planilla de casos de funes, que por alguna razón que les pido revisar, no quedaron recepcionado por operaciones, coincide con casos muticotizantes donde un solo fun se recepciono, quedando los indicados en planilla adjunta  fuera del proceso de operaciones.</Solicitud>
+    <Horas_x0020_Consumidas>2</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>17-07-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000362</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Pablo
+ 
+Al igual que el mes pasado favor modificar PFD de las  siguientes 7 cartas de los siguientes folios adjuntos. (adjunto mail del mes pasado, para recordar).   
+
+Favor enviar para el día 20-07-2018  
+FOLIO  BC_ADEC
+71222631 0,69
+71876953 0,34
+104124343 0,5
+104398087 0,15
+104467426 0,54
+104469740 0,18
+104470606 0,59</Solicitud>
+    <Horas_x0020_Estimadas>1</Horas_x0020_Estimadas>
+    <Horas_x0020_Consumidas>2</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>31-07-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000365</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Buenos días, solicito realizar carga de FUN a las siguientes nomina, ya que al momento de cargar en el proceso normal, quedaron sin datos.
+ 
+La nominas a cargar  se encuentran creadas.
+ 
+Atte.</Solicitud>
+    <Horas_x0020_Consumidas>2</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>31-07-2018 17:55</Fecha>
+    <Id_x0020_Harvest>SERVICIOSGEN-INC-000381</Id_x0020_Harvest>
+    <Solicitante>Exequiel Contreras Luna</Solicitante>
+    <Solicitud>Exequiel
+ 
+Te envío los Funes que hay que sacar de proceso.</Solicitud>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>03-08-2018 10:27</Fecha>
+    <Id_x0020_Harvest>VEFU-001943</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Termino de  Contrato por Incumplimiento en el pago de cotizaciones- FUN2</Solicitud>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Abierto</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>08-08-2018 09:29</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000366</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Estimados, se solicita cargar exclusiones para FUN 4  Carta Aviso 1 del periodo 08-2018 y generar cartas con su respectiva cuadratura. Esto el día 8/ago con archivo de exclusiones que se enviará vía mail. Gracias</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>08-08-2018 11:32</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000367</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Estimados, se solicita cargar exclusiones para FUN 4 periodo 08-2018. Esto el día martes 14/8 para no retrasar los procesos de operaciones.</Solicitud>
+    <Horas_x0020_Consumidas>2</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>14-08-2018 12:18</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000369</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Hola Estimados
+ 
+Favor de acuerdo a archivo adjunto solicitamos suspender todos los convenios vigentes y remplazar por los adjuntos estos archivos serán mandados hoy durante la  tarde.
+ 
+Misma Modalidad mes anterior 
+ 
+Gracias</Solicitud>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>16-08-2018 14:23</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000370</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Dar solidez al proceso completo de Confirmación de Oferta Online, con la finalidad de prevenir posibles inconsistencias a la hora de formalizar el afiliado. Para esto es necesario identificar las posibles casuísticas no abordadas, de acuerdo a los movimientos realizados
+
+ Contratos compensados:
+  Despacho de correo electrónico de confirmación siempre y cuando ambos cotizantes hayan formalizado</Solicitud>
+    <Horas_x0020_Consumidas>2</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>20-08-2018 12:01</Fecha>
+    <Id_x0020_Harvest>SERVICIOSGEN-INC-000383</Id_x0020_Harvest>
+    <Solicitante>Exequiel Contreras Luna</Solicitante>
+    <Solicitud>Dar solidez al proceso completo de Confirmación de Oferta Online, con la finalidad de prevenir posibles inconsistencias a la hora de formalizar el afiliado. Para esto es necesario identificar las posibles casuísticas no abordadas, de acuerdo a los movimientos realizados
+
+ Contratos compensados:
+  Despacho de correo electrónico de confirmación siempre y cuando ambos cotizantes hayan formalizado</Solicitud>
+    <Horas_x0020_Consumidas>52,0</Horas_x0020_Consumidas>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>20-08-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC- 000371</Id_x0020_Harvest>
+    <Solicitud>Modificar PDF</Solicitud>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>29-08-2018 16:17</Fecha>
+    <Id_x0020_Harvest>VEFU-001950</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>1. Generar mecanismos para identificar universo de candidatos a FUN 4.
+
+2. Definir acciones “proactivas” para que afiliado regularice su situación laboral, antes del cumplimiento Normativo.
+
+3. Incluir todos los Canales de atención para la notificación al afiliado “Candidato FUN 4”.
+
+4. Incluir indicadores de medición del proyecto para que el área de ingresos pueda hacer gestión del proceso FUN 4 Proactivo.</Solicitud>
+    <Horas_x0020_Consumidas>27,0</Horas_x0020_Consumidas>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Abierto</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>29-08-2018 19:04</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000372</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Milton 
+
+De acuerdo a lo conversado te solicitamos lo siguiente :
+
+1. A partir del mes de Septiembre la data deberá contener el Monto total de los BC´s vigentes del afiliado al momento de generar la Carta, NO se considerará la tabla de complementos.
+
+2.  Para aquellas cartas proceso actual,  se deberá generar un nuevo lote con los valores correctos para solicitar su reimpresión y reemplazo.  Ademas se debe considerar este cambio para que se generen correctamente el  fun en anualidad Noviembre. 
+
+En relación a los procesos anteriores:
+
+1. Para aquellos casos donde el fun ya se encuentra actualizado y se  puso término a los BC´s no considerados en este, deben quedar vigentes, por lo que la cuenta quedara inconsistente hasta la próxima anualidad.
+2. Para aquellos casos en que el fun aún no se actualiza, realizaremos una nueva incidencia una vez Actualizados, solicitando la apertura de estos BC´s.</Solicitud>
+    <Horas_x0020_Consumidas>21,0</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>30-08-2018 10:25</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000373</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Buenas tarde, solicito realizar carga de FUN a las siguientes nomina, ya que al momento de cargar en el proceso normal, quedaron sin datos.
+ 
+La nominas a cargar  se encuentran creadas.
+ 
+Atte.</Solicitud>
+    <Horas_x0020_Consumidas>1</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>03-09-2018 11:44</Fecha>
+    <Id_x0020_Harvest>SERVICIOSGEN-000070</Id_x0020_Harvest>
+    <Solicitante>Exequiel Contreras Luna</Solicitante>
+    <Solicitud>Proceso de eliminación de funes no formalizados, que deberá operar como sigue:
+ 
+  a. Determinar el universo de funes a eliminar
+  b. Excluir a los afiliados de FUN Remoto para el proceso actual
+  c. Registrar estado FUN ELIMINADO POR CIERRE
+  d. Registrar gestión en CVR con glosa FUN ELIMINADO DE PROCESO
+  e. Despacho de mail con notificación del movimiento anulado
+ 
+ Este proceso se ejecutará a solicitud de usuario</Solicitud>
+    <Horas_x0020_Consumidas>9,0</Horas_x0020_Consumidas>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>03-09-2018</Fecha>
+    <Id_x0020_Harvest>SERVICIOSGEN-INC-000386</Id_x0020_Harvest>
+    <Solicitante>Milton LaPlagne</Solicitante>
+    <Solicitud>Crear tipo de estado para FUNREMOTO</Solicitud>
+    <Horas_x0020_Estimadas>1</Horas_x0020_Estimadas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>05-09-2018</Fecha>
+    <Id_x0020_Harvest>SERVICIOSGEN-INC-000388</Id_x0020_Harvest>
+    <Solicitante>Exequiel Contreras</Solicitante>
+    <Solicitud>Favor Ejecutar proceso de Cierre 08/2018.para FUN Remoto.</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>05-09-2018 11:26</Fecha>
+    <Id_x0020_Harvest>VEFU-INC-004622</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Aplicación Modificación de pactados y planes históricos.
+Favor se requiere realizar a la brevedad las siguientes modificaciones:
+1. Usuario Auditoria
+2. Archivo de Salida</Solicitud>
+    <Horas_x0020_Consumidas>12,5</Horas_x0020_Consumidas>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>05-09-2018 11:40</Fecha>
+    <Id_x0020_Harvest>SERVICIOSGEN-INC-000389</Id_x0020_Harvest>
+    <Solicitante>Exequiel Contreras Luna</Solicitante>
+    <Solicitud>Despachar correo de notificación Fun anulado por cierre Fun Remoto</Solicitud>
+    <Horas_x0020_Consumidas>22,0</Horas_x0020_Consumidas>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>05-09-2018 16:24</Fecha>
+    <Id_x0020_Harvest>SERVICIOSGEN-INC-000391</Id_x0020_Harvest>
+    <Solicitante>Exequiel Contreras Luna</Solicitante>
+    <Solicitud>Se solicita generar PDF de FUNES masivos</Solicitud>
+    <Horas_x0020_Consumidas>0</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>07-09-2018</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000377</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Cargar Exclusiones , generar PDF</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>13-09-2018 09:58</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000378</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Buenas tarde, solicito realizar carga de FUN a las siguientes nomina, ya que al momento de cargar en el proceso normal, quedaron sin datos.
+ 
+La nominas a cargar  se encuentran creadas.
+ 
+Atte.</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>13-09-2018 09:59</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000380</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>hola Estimados
+
+Favor de acuerdo a archivo adjunto solicitamos suspender todos los convenios vigentes y remplazar por los adjuntos.
+
+Misma Modalidad mes anterior 
+
+Gracias</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>01-10-2018 12:23</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000382</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Buenas tarde, solicito realizar carga de FUN a las siguientes nomina, ya que al momento de cargar en el proceso normal, quedaron sin datos.
+ 
+La nominas a cargar  se encuentran creadas.
+ 
+Atte.</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>04-10-2018 15:32</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000384</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Buenos dias, solicito realizar carga de FUN a las siguientes nomina, ya que al momento de cargar en el proceso normal, quedaron sin datos.
+ 
+La nominas a cargar  se encuentran creadas.
+ 
+Atte.</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>OP-CIERREFURE</Id_x0020_Harvest>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>12-10-2018</Fecha>
+    <Id_x0020_Harvest>FUNREMOTO-3</Id_x0020_Harvest>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>01-01-2018</Fecha>
+    <Id_x0020_Harvest>PLANIFICACION</Id_x0020_Harvest>
+    <Solicitante>Abraham Parra</Solicitante>
+    <Solicitud>Planificacion</Solicitud>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Abierta</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>09-10-2018 10:39</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000386</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Pablo 
+
+Favor dejar proceso de adecuación abierto, lo cerré y debo sacar los afiliados inadecuables del este proceso.</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>09-10-2018 14:24</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000385</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Buenas tardes, solicito realizar carga de FUN a las siguientes nomina, ya que al momento de cargar en el proceso normal, quedaron sin datos.
+ 
+La nominas a cargar  se encuentran creadas.
+ 
+Atte.</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>11-10-2018 14:27</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000389</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Estimados, se solicita cargar exclusiones para FUN 4  Carta Aviso 1 del periodo 10-2018. Gracias</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>16-10-2018 16:09</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000391</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Estimados, se solicita cargar exclusiones para FUN 4 periodo 10-2018. Se adjunta archivo.</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>17-10-2018 09:20</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000390</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Hola Estimados
+
+Favor de acuerdo a archivo adjunto solicitamos suspender todos los convenios vigentes y remplazar por los adjuntos el archivo será enviado Mañana
+
+Misma Modalidad mes anterior 
+
+Gracias</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>29-10-2018 09:30</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000393</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Buenas tarde, solicito realizar carga de FUN a las siguientes nomina, ya que al momento de cargar en el proceso normal, quedaron sin datos.
+ 
+La nominas a cargar  se encuentran creadas.
+ 
+Atte.</Solicitud>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>29-10-2018 15:00</Fecha>
+    <Id_x0020_Harvest>SERVICIOSGEN-INC-000397</Id_x0020_Harvest>
+    <Solicitante>Exequiel Contreras Luna</Solicitante>
+    <Solicitud>Envio masivo de correo recordatorio FUN REMOTO</Solicitud>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>07-11-2018</Fecha>
+    <Id_x0020_Harvest>MEJORAS-FUNREMOTO</Id_x0020_Harvest>
+    <Solicitante>Exequiel Contreras Luna</Solicitante>
+    <Solicitud>Cierre, usa tabla proceso, cambia el idioma a la palabra mes, marca todos los funes como electronicos</Solicitud>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>12-11-2018 09:10</Fecha>
+    <Id_x0020_Harvest>SERVICIOSGEN-INC-000398</Id_x0020_Harvest>
+    <Solicitante>Exequiel Contreras Luna</Solicitante>
+    <Solicitud>Favor revisar reporte de FUN remotor.</Solicitud>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>VTAELEC-000048</Id_x0020_Harvest>
+    <Solicitud>Venta Mobile
+
+Flujo llenado DPS:
+Antecedentes Cotizante
+Grupo Familiar
+Listado de Preguntas</Solicitud>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>15-11-2018 17:01</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000397</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Estimados, se solicita cargar exclusiones para FUN 4 periodo 11-2018. Se adjunta archivo.</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>16-11-2018 12:24</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000398</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Hola Estimados
+
+Favor de acuerdo a archivo adjunto solicitamos suspender todos los convenios vigentes y remplazar por los adjuntos el archivo será enviado Mañana
+
+Misma Modalidad mes anterior 
+
+Gracias</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>05-12-2018 13:17</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000400</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>buenas tarde, solicito realizar carga de FUN a las siguientes nomina, ya que al momento de cargar en el proceso normal, quedaron sin datos.
+ 
+La nominas a cargar  se encuentran creadas.
+ 
+Atte.</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>10-12-2018 15:51</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000401</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Estimados, se solicita cargar exclusiones para FUN 4  Carta Aviso 1 del periodo 12-2018. Gracias</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>13-12-2018 14:05</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000402</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Estimados, se solicita cargar exclusiones para FUN 4 periodo 12-2018. Se adjunta archivo.</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>ADEC-INC-000403</Id_x0020_Harvest>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest>ADEC-INC-000404</Id_x0020_Harvest>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>01-10-2018</Fecha>
+    <Id_x0020_Harvest>VTAELEC-000039</Id_x0020_Harvest>
+    <Solicitante>Abraham Parra</Solicitante>
+    <Solicitud>Venta Mobile</Solicitud>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>07-10-2018</Fecha>
+    <Id_x0020_Harvest>SOPORTEPDF</Id_x0020_Harvest>
+    <Solicitante>Ruth Cifuentes</Solicitante>
+    <Horas_x0020_Consumidas>0</Horas_x0020_Consumidas>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Id_x0020_Harvest />
+    <Horas_x0020_Consumidas>0</Horas_x0020_Consumidas>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>09-01-2019 15:15</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000405</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Estimados, se solicita cargar exclusiones para FUN 4  Carta Aviso 1 del periodo 01-2019. Gracias</Solicitud>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>15-01-2019 17:05</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000406</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Se solicita cargar exclusiones para FUN 4 periodo 01-2019, esto para martes 15/01, se enviará archivo vía mail.</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>16-01-2019 10:23</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000407</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Hola Estimados
+
+Favor de acuerdo a archivo adjunto solicitamos suspender todos los convenios vigentes y remplazar por los adjuntos 
+
+Misma Modalidad mes anterior 
+
+Gracias</Solicitud>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>17-01-2019 14:12</Fecha>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Solicitante>Exequiel Contreras Luna</Solicitante>
+    <Solicitud>Mejoras y ajustes a Herramientas de Venta (Mi Consalud)</Solicitud>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>22-01-2019 13:20</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000408</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Buenas tardes, solicito realizar carga de FUN a las siguientes nomina, ya que al momento de cargar en el proceso normal, quedaron sin datos.
+ 
+La nominas a cargar  se encuentran creadas.
+ 
+Atte.</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>05-02-2019</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000409</Id_x0020_Harvest>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>07-02-2019</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000410 </Id_x0020_Harvest>
+    <Solicitante>Soledad Escobar</Solicitante>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>13-01-2019</Fecha>
+    <Id_x0020_Harvest>VTAELEC-000046</Id_x0020_Harvest>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>13-02-2019 16:40</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000412</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Se solicita cargar exclusiones para FUN 4 periodo 02-2019 esto con fecha jueves14/02, se adjunta archivo.</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>18-02-2019 10:36</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000413</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Hola Estimados
+
+Favor de acuerdo a archivo adjunto solicitamos suspender todos los convenios vigentes y remplazar por los adjuntos 
+Se requiere lo antes posible.
+Misma Modalidad mes anterior 
+
+Gracias</Solicitud>
+    <Clasificacion>Soporte</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>18-02-2019</Fecha>
+    <Id_x0020_Harvest>RETENCIONCLIENTES</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Corregir BUG cuando un afiliado no tiene subsidio</Solicitud>
+    <Clasificacion>Desarrollo</Clasificacion>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>05-03-2019 12:07</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000416</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Buenas tardes, solicito realizar carga de FUN a las siguientes nomina, ya que al momento de cargar en el proceso normal, quedaron sin datos.
+ 
+La nominas a cargar  se encuentran creadas.
+ 
+Atte.</Solicitud>
+    <Estado>Cerrada</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>08-03-2019 12:06</Fecha>
+    <Id_x0020_Harvest>ADEC-INC-000417</Id_x0020_Harvest>
+    <Solicitante>Milton Arturo Laplagne Valdenegro</Solicitante>
+    <Solicitud>Estimados, se solicita cargar exclusiones para FUN 4  Carta Aviso 1 del periodo 03-2019. Gracias</Solicitud>
+    <Estado>Abierto</Estado>
+  </Planificacion>
+  <Planificacion>
+    <Fecha>14-03-2019</Fecha>
+    <Id_x0020_Harvest>VEFU-INC-004963</Id_x0020_Harvest>
+    <Estado>Abierto</Estado>
+  </Planificacion>
+</NewDataSet>

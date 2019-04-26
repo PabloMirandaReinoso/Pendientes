@@ -1,0 +1,459 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\01_inserts_tbl_AFIL_VTA_MOBILE_DOMINIOS.sql</Objeto>
+    <Fecha>25-01-2019 11:22</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\02_inserts_tbl_AFIL_VTA_MOBILE_DOMINIOS.sql</Objeto>
+    <Fecha>25-01-2019 12:06</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\03_inserts_tbl_AFIL_WD_DOMINIOS.sql</Objeto>
+    <Fecha>25-01-2019 11:41</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\04_grant_on_FDI_Tables_CSLD_SEGU.sql</Objeto>
+    <Fecha>25-01-2019 10:57</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\05_PCK_AFIL_GD_DESPACHADOR.sql</Objeto>
+    <Fecha>25-01-2019 09:43</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\06_PCK_AFIL_VR_SERVICIOS.sql</Objeto>
+    <Fecha>25-01-2019 11:50</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\07_PCK_AFIL_VTA_MOBI_DPS.sql</Objeto>
+    <Fecha>25-01-2019 11:33</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\08_PCK_AFIL_VF_DPS.sql</Objeto>
+    <Fecha>25-01-2019 11:24</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\09_PCK_AFIL_WD_ANALISIS_VIS_MEDI.sql</Objeto>
+    <Fecha>25-01-2019 11:24</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\10_PCK_AFIL_WD_ANALISIS_VIS_SUPE.sql</Objeto>
+    <Fecha>25-01-2019 11:24</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\11_PCK_AFIL_WD_GENERAL.sql</Objeto>
+    <Fecha>25-01-2019 11:24</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\12_PCK_AFIL_WD_INGRESO_DPS.sql</Objeto>
+    <Fecha>25-01-2019 11:23</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\13_PCK_AFIL_WD_ORQUESTACION.sql</Objeto>
+    <Fecha>25-01-2019 11:24</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\14_PCK_AFIL_WD_SERVICIOS.sql</Objeto>
+    <Fecha>25-01-2019 11:24</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\15_PCK_AFIL_VTA_MOBI_UTILES.sql</Objeto>
+    <Fecha>25-01-2019 12:09</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\atras_PCK_AFIL_GD_DESPACHADOR.sql</Objeto>
+    <Fecha>25-01-2019 11:31</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\atras_PCK_AFIL_VF_DPS.sql</Objeto>
+    <Fecha>25-01-2019 11:24</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\atras_PCK_AFIL_VR_SERVICIOS.sql</Objeto>
+    <Fecha>25-01-2019 11:49</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\atras_PCK_AFIL_VTA_MOBI_DPS.sql</Objeto>
+    <Fecha>25-01-2019 11:36</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\atras_PCK_AFIL_VTA_MOBI_UTILES.sql</Objeto>
+    <Fecha>25-01-2019 11:35</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\atras_PCK_AFIL_WD_ANALISIS_VIS_MEDI.sql</Objeto>
+    <Fecha>25-01-2019 11:24</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\atras_PCK_AFIL_WD_ANALISIS_VIS_SUPE.sql</Objeto>
+    <Fecha>25-01-2019 11:24</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\atras_PCK_AFIL_WD_GENERAL.sql</Objeto>
+    <Fecha>25-01-2019 11:24</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\atras_PCK_AFIL_WD_INGRESO_DPS.sql</Objeto>
+    <Fecha>25-01-2019 11:23</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\atras_PCK_AFIL_WD_ORQUESTACION.sql</Objeto>
+    <Fecha>25-01-2019 11:24</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\atras_PCK_AFIL_WD_SERVICIOS.sql</Objeto>
+    <Fecha>25-01-2019 11:24</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\PROD-PCK_AFIL_VTA_MOBI_DPS.sql</Objeto>
+    <Fecha>25-01-2019 14:21</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000045</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000045\ROLL-PCK_AFIL_VTA_MOBI_DPS.sql</Objeto>
+    <Fecha>25-01-2019 14:21</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>ADEC-INC-000409</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Soporte\NOTI\ADEC-INC-000409\00_carga_afi_paso.sql</Objeto>
+    <Fecha>05-02-2019 12:08</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>ADEC-INC-000409</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Soporte\NOTI\ADEC-INC-000409\01_ejec_afi_paso.sql</Objeto>
+    <Fecha>09-10-2018 12:07</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>ADEC-INC-000410 </Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Soporte\FUN4\ADEC-INC-000410\00_carga_afi_paso.sql</Objeto>
+    <Fecha>07-02-2019 16:58</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>ADEC-INC-000410 </Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Soporte\FUN4\ADEC-INC-000410\01_ejec_afi_paso.sql</Objeto>
+    <Fecha>11-10-2018 14:37</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000046</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000046\CC-Liberacion\CC-Liberacion\01_insert_AFIL_VTA_MOBILE_DOMINIOS.sql</Objeto>
+    <Fecha>13-02-2019 13:32</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000046</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000046\CC-Liberacion\CC-Liberacion\00_insert_AFIL_VTA_MOBILE_DOMINIOS.sql</Objeto>
+    <Fecha>05-02-2019 12:49</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000046</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000046\CC-Liberacion\CC-Liberacion\02_upd_AFIL_VTA_MOBILE_DOMINIOS.sql</Objeto>
+    <Fecha>13-02-2019 13:21</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000046</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000046\CC-Liberacion\CC-Liberacion\03_create_obj_PREGUNTAS_DPS_OBJ.sql</Objeto>
+    <Fecha>07-02-2019 10:20</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000046</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000046\CC-Liberacion\CC-Liberacion\04_PCK_AFIL_VR_SERVICIOS.sql</Objeto>
+    <Fecha>13-02-2019 12:56</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000046</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000046\CC-Liberacion\CC-Liberacion\05_PCK_AFIL_GD_DESPACHADOR.sql</Objeto>
+    <Fecha>13-02-2019 12:58</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000046</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000046\CC-Liberacion\CC-Liberacion\06_PCK_AFIL_VF_DPS.sql</Objeto>
+    <Fecha>13-02-2019 13:00</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000046</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000046\CC-Liberacion\CC-Liberacion\07_PCK_AFIL_WD_ORQUESTACION.sql</Objeto>
+    <Fecha>13-02-2019 12:14</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000046</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000046\CC-Liberacion\CC-Liberacion\08_PCK_AFIL_SERVICIOS_GEST_VENTAS.sql</Objeto>
+    <Fecha>13-02-2019 13:10</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000046</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000046\CC-Liberacion\CC-Liberacion\09_PCK_AFIL_VTA_MOBI_DPS.sql</Objeto>
+    <Fecha>13-02-2019 13:12</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000046</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000046\CC-Liberacion\CC-Liberacion\10_PCK_AFIL_VTA_MOBI_UTILES.sql</Objeto>
+    <Fecha>13-02-2019 13:14</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000046</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000046\CC-Reversa\CC-Reversa\atras_PCK_AFIL_GD_DESPACHADOR.sql</Objeto>
+    <Fecha>07-02-2019 10:10</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000046</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000046\CC-Reversa\CC-Reversa\atras_PCK_AFIL_SERVICIOS_GEST_VENTAS.sql</Objeto>
+    <Fecha>13-02-2019 12:52</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000046</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000046\CC-Reversa\CC-Reversa\atras_PCK_AFIL_VF_DPS.sql</Objeto>
+    <Fecha>07-02-2019 10:12</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000046</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000046\CC-Reversa\CC-Reversa\atras_PCK_AFIL_VR_SERVICIOS.sql</Objeto>
+    <Fecha>05-02-2019 12:06</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000046</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000046\CC-Reversa\CC-Reversa\atras_PCK_AFIL_VTA_MOBI_DPS.sql</Objeto>
+    <Fecha>05-02-2019 12:03</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000046</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000046\CC-Reversa\CC-Reversa\atras_PCK_AFIL_VTA_MOBI_UTILES.sql</Objeto>
+    <Fecha>05-02-2019 12:04</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000046</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000046\CC-Reversa\CC-Reversa\atras_PCK_AFIL_WD_ORQUESTACION.sql</Objeto>
+    <Fecha>13-02-2019 12:49</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>ADEC-INC-000412</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Soporte\FUN4\ADEC-INC-000412\00_carga_afi_paso.sql</Objeto>
+    <Fecha>13-02-2019 16:49</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>ADEC-INC-000412</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Soporte\FUN4\ADEC-INC-000412\01_ejec_afi_paso.sql</Objeto>
+    <Fecha>13-02-2019 16:50</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>ADEC-INC-000413</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Soporte\NOTI\ADEC-INC-000413\00_carga.txt</Objeto>
+    <Fecha>18-02-2019 10:32</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>ADEC-INC-000413</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Soporte\NOTI\ADEC-INC-000413\01_ejec_afi_paso.sql</Objeto>
+    <Fecha>16-11-2018 12:29</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>RETENCIONCLIENTES</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\Retencion\19022019\PROD-Pck_Afil_Ret_Clientes.sql</Objeto>
+    <Fecha>19-02-2019 12:04</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>RETENCIONCLIENTES</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\Retencion\19022019\ROLL-Pck_Afil_Ret_Clientes.sql</Objeto>
+    <Fecha>19-02-2019 12:04</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000048</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000048\01-PROD-PCK_AFIL_VR_SERVICIOS.sql</Objeto>
+    <Fecha>19-02-2019 12:45</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000048</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000048\01-ROLL-PCK_AFIL_VR_SERVICIOS.sql</Objeto>
+    <Fecha>19-02-2019 12:45</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000048</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000048\02-PROD-PCK_AFIL_VTA_MOBI_UTILES.sql</Objeto>
+    <Fecha>19-02-2019 12:45</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000048</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000048\02-ROLL-PCK_AFIL_VTA_MOBI_UTILES.sql</Objeto>
+    <Fecha>19-02-2019 12:45</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000048</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000048\03-PROD-PCK_AFIL_GD_DESPACHADOR.sql</Objeto>
+    <Fecha>19-02-2019 12:45</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000048</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000048\03-ROLL-PCK_AFIL_GD_DESPACHADOR.sql</Objeto>
+    <Fecha>19-02-2019 12:45</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000048</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000048\04-PROD-Pck_Afil_Ret_Clientes.sql</Objeto>
+    <Fecha>19-02-2019 12:54</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000048</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000048\04-ROLL-Pck_Afil_Ret_Clientes.sql</Objeto>
+    <Fecha>19-02-2019 12:54</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000048</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000048\00-Creacion-dominios_TES.sql</Objeto>
+    <Fecha>19-02-2019 13:01</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000048</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000048\05-PCK_AFIL_AC_FUNES.pkb</Objeto>
+    <Fecha>19-02-2019 13:08</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000048</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000048\05-PCK_AFIL_AC_FUNES_OLD.pkb</Objeto>
+    <Fecha>19-02-2019 13:08</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000048</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000048\06-PCK_AFIL_VF_OFERTA1.pkb</Objeto>
+    <Fecha>19-02-2019 13:08</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VTAELEC-000048</Id_x0020_Harvest>
+    <Tipo>Reversa</Tipo>
+    <Objeto>C:\Liberaciones\VentaElectronica\VTAELEC-000048\06-PCK_AFIL_VF_OFERTA1_OLD.pkb</Objeto>
+    <Fecha>19-02-2019 13:08</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>ADEC-INC-000416</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Soporte\NOTI\ADEC-INC-000416\00_carga_afi_paso.sql</Objeto>
+    <Fecha>05-03-2019 12:14</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>ADEC-INC-000416</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Soporte\NOTI\ADEC-INC-000416\01_ejec_afi_paso.sql</Objeto>
+    <Fecha>09-10-2018 12:07</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>PLANIFICACION</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\05032019\4_PCK_AFIL_SERVICIOS_GEST_VENTAS.sql</Objeto>
+    <Fecha>05-03-2019 17:38</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>PLANIFICACION</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Liberaciones\05032019\body.txt</Objeto>
+    <Fecha>05-03-2019 17:46</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>ADEC-INC-000417</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Soporte\FUN4\ADEC-INC-000417\00_carga_afi_paso.sql</Objeto>
+    <Fecha>08-03-2019 12:23</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>ADEC-INC-000417</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Soporte\FUN4\ADEC-INC-000417\01_ejec_afi_paso.sql</Objeto>
+    <Fecha>11-10-2018 14:37</Fecha>
+  </Soporte>
+  <Soporte>
+    <Id_x0020_Harvest>VEFU-INC-004963</Id_x0020_Harvest>
+    <Tipo>Liberacion</Tipo>
+    <Objeto>C:\Soporte\ACTU\VEFU-INC-004963\actu.sql</Objeto>
+    <Fecha>14-03-2019 11:49</Fecha>
+  </Soporte>
+</NewDataSet>
